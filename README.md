@@ -1,4 +1,4 @@
-# Examplo de utilização - TypeSpec
+# Exemplo de utilização - TypeSpec
 
 Este repositório contem um exemplo de como criar uma documentação para uma API utilizando o TypeSpec, uma linguagem desenvolvida pela Microsoft para facilitar a vida de nós devs durante a escrita da documentação de uma API.
 
